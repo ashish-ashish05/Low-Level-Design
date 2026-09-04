@@ -1,6 +1,6 @@
 package ride;
 
-public class Auto implements Ride{
+public class AutoRide implements Ride{
 
     @Override
     public void book() {
